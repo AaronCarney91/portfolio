@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e3ebf43-d284-43c2-81d3-665a7e194c66" name="Default Changelist" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index0.php" afterPath="" />
-    </list>
+    <list default="true" id="9e3ebf43-d284-43c2-81d3-665a7e194c66" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -230,15 +227,15 @@
       <workItem from="1539160169365" duration="49064000" />
       <workItem from="1539676683272" duration="13019000" />
       <workItem from="1540052505092" duration="639000" />
-      <workItem from="1540057234952" duration="4184000" />
+      <workItem from="1540057234952" duration="4265000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66906000" />
+    <option name="totallyTimeSpent" value="66987000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="448" y="125" width="974" height="1047" extended-state="1" />
+    <frame x="448" y="125" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16701461" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
