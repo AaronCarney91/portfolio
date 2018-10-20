@@ -1,6 +1,6 @@
 {
     "scripts": {
-        "start": "node index.html"
+        "start": "index.html"
     },
 
     "title": "Creative",
