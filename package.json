@@ -1,4 +1,8 @@
 {
+    "scripts": {
+        "start": "node index.html"
+    },
+
     "title": "Creative",
     "name": "startbootstrap-creative",
     "version": "5.0.1",
